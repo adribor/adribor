@@ -18,7 +18,7 @@ Computer Engineering student with a strong interest in **Linux, networking, and 
 
 ## 🛠️ Technologies and Tools
 
-- **Languages:** Python, Bash, C, SQL
+- **Languages:** Python, Bash, C, Java
 - **Systems:** Linux, Windows
 - **Security:** OverTheWire, Nmap, Wireshark, ltrace, strings
 - **Development:** Git, GitHub, Virtual Machines
